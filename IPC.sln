@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPCClient", "IPCClient\IPCClient.vcxproj", "{6FBBEFEF-FE5B-4C2D-B5AF-1113A6406670}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPCServer", "IPCServer\IPCServer.vcxproj", "{62421B0F-ECCB-4C07-B2E6-55A8A210E5FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LockfreeQueue", "LockfreeQueue\LockfreeQueue.vcxproj", "{8BB3FEA0-D656-401A-898D-359B1C88F252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBBEFEF-FE5B-4C2D-B5AF-1113A6406670}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FBBEFEF-FE5B-4C2D-B5AF-1113A6406670}.Debug|Win32.Build.0 = Debug|Win32
+		{6FBBEFEF-FE5B-4C2D-B5AF-1113A6406670}.Release|Win32.ActiveCfg = Release|Win32
+		{6FBBEFEF-FE5B-4C2D-B5AF-1113A6406670}.Release|Win32.Build.0 = Release|Win32
+		{62421B0F-ECCB-4C07-B2E6-55A8A210E5FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62421B0F-ECCB-4C07-B2E6-55A8A210E5FE}.Debug|Win32.Build.0 = Debug|Win32
+		{62421B0F-ECCB-4C07-B2E6-55A8A210E5FE}.Release|Win32.ActiveCfg = Release|Win32
+		{62421B0F-ECCB-4C07-B2E6-55A8A210E5FE}.Release|Win32.Build.0 = Release|Win32
+		{8BB3FEA0-D656-401A-898D-359B1C88F252}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BB3FEA0-D656-401A-898D-359B1C88F252}.Debug|Win32.Build.0 = Debug|Win32
+		{8BB3FEA0-D656-401A-898D-359B1C88F252}.Release|Win32.ActiveCfg = Release|Win32
+		{8BB3FEA0-D656-401A-898D-359B1C88F252}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
